@@ -17,8 +17,8 @@ mqtt:
 # Serial settings
 serial:
   # Location of CC2531 USB sniffer
-  port: /dev/ttyACM0
-  adapter: deconz
+  port: /dev/ttvUSBO
+  #adapter: deconz
 
 frontend:
   # Optional, default 8080 or you can use your own as well.
